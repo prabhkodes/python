@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------
+Function : EXCHANGE BOUNDARIES
+Rank 0 process time : 1571 ms
+Rank 1 process time : 1487 ms
+Rank 2 process time : 1610 ms
+Rank 3 process time : 1428 ms
+----------------------------------------------------------------------------------------------------
+Function : INIT fields with Halo
+Rank 0 process time : 0 ms
+Rank 1 process time : 0 ms
+Rank 2 process time : 0 ms
+Rank 3 process time : 0 ms
+----------------------------------------------------------------------------------------------------
+Function : SOLVE AND SWAP
+Rank 0 process time : 4007 ms
+Rank 1 process time : 4089 ms
+Rank 2 process time : 3952 ms
+Rank 3 process time : 4136 ms
+----------------------------------------------------------------------------------------------------
+Function : Solve + swap + Communicate
+Rank 0 process time : 5709 ms
+Rank 1 process time : 5704 ms
+Rank 2 process time : 5704 ms
+Rank 3 process time : 5704 ms
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+Function : EXCHANGE BOUNDARIES  Max time:  1610ms Min time:  1428ms Avg time :  1524ms
+----------------------------------------------------------------------------------------------------
+Function : INIT fields with Halo Max time:     0ms Min time:     0ms Avg time :     0ms
+----------------------------------------------------------------------------------------------------
+Function : SOLVE AND SWAP       Max time:  4136ms Min time:  3952ms Avg time :  4046ms
+----------------------------------------------------------------------------------------------------
+Function : Solve + swap + Communicate Max time:  5709ms Min time:  5704ms Avg time : 5705.25ms
+----------------------------------------------------------------------------------------------------
